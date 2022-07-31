@@ -1,3 +1,3 @@
 # Statistics
 
-This repo contains homeworks from work practice at statistics institute
+This repo contains homeworks from work practice at Statistics Institute
